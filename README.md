@@ -1,5 +1,7 @@
 <img width="926" height="440" alt="schedule pipeline" src="https://github.com/user-attachments/assets/681c8445-245e-4b94-8ba5-19ca39514ade" />
 # Microsoft-Fabric-Medallion-Pipeline-Project-Summary
+
+
 As a Data Analyst, I designed and delivered an end-to-end data pipeline in Microsoft Fabric using the Medallion Architecture (Bronze → Silver → Gold). The solution ingested raw flat files, applied staged transformations, built a semantic model, and produced automated sales reports for stakeholders.
 
 
