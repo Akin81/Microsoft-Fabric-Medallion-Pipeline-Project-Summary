@@ -1,6 +1,8 @@
 # Microsoft-Fabric-Medallion-Pipeline-Project-Summary
-As a Data Analyst, I designed and delivered an end-to-end data pipeline in Microsoft Fabric using the Medallion Architecture (Bronze → Silver → Gold). The solution ingested raw flat files, applied staged transformations, built a semantic model, and produced automated sales reports for stakeholders
-#My Role & Responsibilities
+As a Data Analyst, I designed and delivered an end-to-end data pipeline in Microsoft Fabric using the Medallion Architecture (Bronze → Silver → Gold). The solution ingested raw flat files, applied staged transformations, built a semantic model, and produced automated sales reports for stakeholders.
+
+
+# My Role & Responsibilities
 
 
 •	Ingestion (Bronze): Uploaded flat files into the Bronze (staging) layer, maintaining raw data fidelity and applying metadata tagging for traceability.
@@ -10,7 +12,7 @@ As a Data Analyst, I designed and delivered an end-to-end data pipeline in Micro
 •	Reporting: Designed a stakeholder-facing sales performance report in Fabric/Power BI, covering sales by region, product, and period.
 •	Automation & scheduling: Orchestrated the entire process in a Fabric pipeline, configured scheduled runs, and set up monitoring to ensure timely and accurate report refreshes.
 
-#Outcomes & Impact
+# Outcomes & Impact
 
 
 
@@ -18,7 +20,7 @@ As a Data Analyst, I designed and delivered an end-to-end data pipeline in Micro
 •	Improved reporting accuracy by 20% with standardized transformations and validations.
 •	Delivered a scalable Medallion framework that can be extended to new data sources and business use cases.
 
-#Key Artifacts
+# Key Artifacts
 
 
 
@@ -28,7 +30,7 @@ As a Data Analyst, I designed and delivered an end-to-end data pipeline in Micro
 •	Semantic model (dataset) powering the reports
 •	Stakeholder-ready Power BI/Fabric sales report
 
-#Tech Stack
+# Tech Stack
 
 
 
